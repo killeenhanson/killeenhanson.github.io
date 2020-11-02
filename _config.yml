@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-title: Jarrett Fuller
+title: Killeen Hanson
 
 # Short bio or description (displayed in the header)
-description: Designer, Writer, Podcaster
+description: Reader, Writer, Designer, Educator
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -18,11 +18,11 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: killeen.hanson@gmail.com
   facebook:
   flickr:
   github:
-  instagram:
+  instagram: killeenhanson
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -32,11 +32,11 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-91441149-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: jarrettfuller.com
+url: https://killeenhanson.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -44,7 +44,7 @@ url: jarrettfuller.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-repository: jarrettfuller/jarrettfuller.github.io
+repository: killeenhanson/killeenhanson.github.io
 
 collections:
     archive:
@@ -85,4 +85,5 @@ exclude:
     - README.md
     - CNAME
 
+destination: public
 
