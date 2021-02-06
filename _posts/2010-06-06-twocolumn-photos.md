@@ -1,7 +1,7 @@
 ---
 layout: image
-title: Relationships
-tags: Photography
+title: Two Column Photos
+tags: Example
 discription: A series of photos I posted to Instagram during August 2015 to exploring diptychs and relationships between images. I became fascinated with the way two photos, placed side by side, changed how you saw each individually.
 categories:
 - Photography

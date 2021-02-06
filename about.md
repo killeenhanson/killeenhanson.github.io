@@ -10,130 +10,111 @@ permalink: /about/
 <div class="text">
 
 <div class="profile_section">
-<h4>Official Biography (100 words)</h4>
-<article><p>Jarrett Fuller is a designer, writer, educator, editor and podcaster. He is director of twenty-six, a multidisciplinary design and editorial studio; hosts the design podcast Scratching the Surface; is a contributing editor at AIGA Eye On Design; and teaches in both undergraduate and graduate programs at Pratt Institute, The New School Parsons School of Design, University of the Arts, and Rutgers University. He previously worked as a designer at Facebook, Warby Parker, and The Whitney Museum of American Art. He received his BFA in graphic design from Kutztown University and his MFA in graphic design and critical studies from Maryland Institute College of Art.</p>
+<h4>Short Bio</h4>
+<article><p>Killeen Hanson works, writes, and teaches about radical listening, the commons, and the relationship between education, publication, and civic engagement. She is the founder and editor of the Sobremesa Reading Club, a publication and discussion series that _____. She also ____, teaches both undergraduate and graduate programs at Parsons The New School of Design. She previously worked  as an writer and researcher at Juntos Finanzas, the Spatial History Lab at Stanford University, Museum of Contemporary Craft, and UNTITLED Magazine. She earned a BA in English literature from Stanford University and a dual MFA in Applied Craft + Design from Pacific Northwest College of Art and Oregon College of Art and Craft. She lives and works in New York.</p>
 </article>
 </div>
 
 <div class="profile_section">
-<h4>Statement</h4>
- <article><p>My work spans design, writing, broadcasting, criticism, and education. I’m interested in design as both a noun and a verb and my work focuses on design as a process; the act of forming ideas and giving ideas form. I believe that design is ideology made artifact and must respond to the world around it. In the last twenty years, design’s role has expanded but this should not be seen as colonizing bur rather as democratizing. Design, then, becomes a liberal art.</p>
+<h4>Longer Bio</h4>
+ <article>
+<p>She graduated Phi Beta Kappa from Stanford University with degrees in English and French and earned a dual MFA in Applied Craft + Design from Pacific Northwest College of Art and Oregon College of Art and Craft.</p>
+     
+<p>From 2012-2014, Killeen served as Managing Editor of PNCA's UNTITLED Magazine, an online publication about art, craft, and lives of creative practice. Later, as Director of Strategic Partnerships at Pacific Northwest College of Art, she worked with artists, academics, technologists, historians, economists, and scientists to develop collaborations that leveraged the strengths of each field into truly astonishing research that reimagined the future of art and design education. She was previously the Managing Producer for the Stanford Storytelling Project, where she coordinated production of weekly radio documentaries that deepened our understanding of single, common human experiences; a Camp Helper at Vogelsang High Sierra Camp in Yosemite National Park; and a coach for aspiring documentary filmmakers and radio interviewers.</p>
 
-<p>I run a small, independent design, editorial, and research studio called twenty-six where we engage with clients large and small, around the world, on projects ranging from visual design to editorial strategy to research initiatives. Recent clients have included Thames and Hudson, MIT Press, University of Nevada, Study Hall, and Design Observer. My recent design work can be seen on <a href="http://www.twenty-six.design">my studio's website</a>.</p>
+<p>She also managed research efforts for Shaping The West, a spatial history project investigating how the expansion of the transcontinental railroad changed perceptions of space and time in the American West. Historian Richard White built this research into Railroaded: The Transcontinentals and the Making of Modern America, a “myth-shattering book that shows how reckless but influential railroad corporations in the late 19th century often profited by failure as well as success.” It was a finalist for the 2012 Pulitzer Prize in History.</p>
 
-<p>My writing has appeared on <a href="https://designobserver.com/profile/jarrettfuller/32550/">Design Observer</a>, Eye on Design, and, for the last fifteen years, my own <a href="http://www.jarrettfuller.blog">blog</a>. My writing focuses on a range of topics including design criticism, history, and cultural commentary. Recent writing and research has dealt with ideas around design education, design as a liberal art, smart cities and the internet-of-things, and the intersection of philosophy and design. In 2016, I particpated in Triple Canopy's Publication Intensive. In 2018, I designed and co-edited <a href="https://amzn.to/2O3bDmU"><i>Culture is Not Always Popular: Fifteen Years of Design Observer</i></a> with Michael Bierut and Jessica Helfand, that collects over 60 essays from the website Design Observer. I'm currently a contributing editor for AIGA's design website, Eye on Design.</p>
+<p>Killeen currently teaches design research within the School of Design Strategies at Parsons The New School for Design in New York City, helping students develop methods and habits for a lifetime of sustained and rigorous curiosity. Before moving to New York, she was an Assistant Professor at Pacific Northwest College of Art, where she taught a graduate seminar in the MFA in Applied Craft + Design program, a dual degree program offered jointly with Oregon College of Art & Craft. She’s currently developing a graduate seminar investigating the material and environmental potential of utopias.</p>
 
-<p>I also host and produce <a href="http://www.scratchingthesurface.fm">Scratching the Surface</a>, a weekly podcast design, theory, and creative practice. I sometimes describe is a podcast about designers who don’t want to be designers. In the end, though, it's basically an excuse for me to talk to people I find interesting. It’s been featured on <i>Architectural Digest</i>, <i>Dezeen</i>, <i>Design Observer</i>, <i>Lecture in Progress</i>, and was included in <a href="https://www.curbed.com/2017/12/18/16778058/architecture-awards-2017">Curbed's Best Of 2017 list</a>.</p>
+<p>Today, Killeen works with curators, artists, and faculty researchers to develop funding and operational plans for cross-disciplinary partnerships between the arts and sciences. She also freelances as a thought partner and design strategist with individuals and organizations pushing the boundaries of what is and what can be.</p>
 
-<p>In the last few years, teaching has become a central part of my practice. I've taught in both graduate and undergraduate design program at a variety of schools including The New School, Pratt Institute, University of the Arts, Rutgers University, and Maryland Institute College of Art. For me, the classroom is where all my interests really come together: design, writing, criticism, discussion, thinking, making, performing, etc. As a teacher, I'm interested in fostering in my students a love of process and experimentation, cultivating authorship and voice, and thinking critically about their work and the profession at large. You can see a list of courses I've taught and sample syllabi <a href="http://www.jarrettfuller.com/teaching">here</a>.</p>
-
-<p>In addition to design, I dabble in <a href="http://www.instagram.com/jarrettfuller">photography</a>, painting, <a href="http://www.jarrettfuller.com/playlists">producing playlists</a>, making pizza, and fermentation.</p>
-
-<p>I spend my free time reading <a href="/library">lots of books</a>, watching movies, running, and practicing yoga. Outside of work, I'm interested in media theory, philosophy, urbanism, history, cooking, and natural wines.</p>
+<p>In her personal practice, Killeen is developing the Sobremesa Reading Club, an ongoing event and publication series framed around an evolving library of articles, media, and art that includes everything from antiquity to internet memes. The project makes spaces for critical discussion, civic dialogue, and productive disagreement.</p>
 
 </article>
 </div>
 
+<!--
 <div class="profile_section">
-            <h4>Interviews/Features</h4>
-            <article><ul>
-                <li><a href="http://designdecode.org/article.php?p=jarrett-fuller">Design is Reality, <i>Design Decode</i></a>, interview</li>
-                <li><a href="http://www.eyemagazine.com/feature/article/the-designer-as-podcaster">The designer as Podcaster, <i>Eye Magazine</i></a>, feature</li>
-                <li><a href="http://perpetualbeta.vcfa.edu/2018/02/05/huh-34-an-interview-with-jarrett-fuller/">Perpetual Beta #34: An Interview with Jarrett Fuller</a>, interview</li>
-                <li><a href="http://amt.parsons.edu/blog/bfacd-faculty-highlight-jarrett-fuller/">Parsons BFACD Faculty Highlight</a>, interview</li>
-            <li><a href="https://soundcloud.com/user-54181376/jarrettfuller">Exchanged: A podcast about design podcasts</a>, interview</li>
-            <li><a href="https://www.dallasnews.com/arts/architecture/2017/08/26/podcast-takes-nitty-gritty-design-practice-criticism">Podcast takes on nitty gritty of design practice and criticism, Dallas Morning News</a>, feature</li>
-            <li><a href="http://designfeaster.blogspot.com/2017/03/jarrett-fuller-side-projects.html">Design Feaster,</a> interview</li>
-            <li><a href="http://designobserver.com/feature/rough-sketches/39367/">Design Observer: Rough Sketches</A>, feature</li>
-<li><a href="http://throughprocess.com/archive/2015/12/10/">Through Process: Back to School</a>, interview</li>
-<li><a href="http://nymag.com/thecut/2014/11/I-lost-my-work-husband.html">I Lost My Work Husband, New York Magazine</a>, feature</li>
-<li><a href="http://throughprocess.com/archive/2014/06/16/">Through Process: Minimalist LEGO Characters From Game Of Thrones</A>, interview</li>
-<li><a href="http://www.wearedesignbureau.com/projects/dialogue-jarrett-fuller/">Design Bureau</A>, interview</li>
-</ul>
-</article>
-            </div>
+    <h4>Interviews/Features</h4>
+    <article><ul>
+        <li><a href="http://designdecode.org/article.php?p=jarrett-fuller">Design is Reality, <i>Design Decode</i></a>, interview</li>
+        <li><a href="http://www.eyemagazine.com/feature/article/the-designer-as-podcaster">The designer as Podcaster, <i>Eye Magazine</i></a>, feature</li>
+        <li><a href="http://perpetualbeta.vcfa.edu/2018/02/05/huh-34-an-interview-with-jarrett-fuller/">Perpetual Beta #34: An Interview with Jarrett Fuller</a>, interview</li>
+    </ul></article>
+</div>
+-->
 
+<!--
 <div class="profile_section">
-            <h4>Gear</h4>
-            <article>
-                <p>I primarily work on a 15" Macbook Pro attached to a 27" Cinema Display and a 11" iPad Pro with Smart Keyboard Folio and Apple Pencil. I use:</p>
-<ul>
-            <li>— Adobe Creative Suite for designing</li>
-    <li>— <a href="https://ia.net/writer">IA Writer</a> for writing</li>
+    <h4>Gear</h4>
+    <article>
+        <p>I primarily work on a 15" Macbook Pro attached to a 27" Cinema Display and a 11" iPad Pro with Smart Keyboard Folio and Apple Pencil. I use:</p>
+            <ul>
+                <li>— Adobe Creative Suite for designing</li>
+                <li>— <a href="https://ia.net/writer">IA Writer</a> for writing</li>
                 <li>— <a href="http://brackets.io">Brackets</a> for coding</li>
                 <li>— <a href="https://github.com">Github</a> + Terminal for repos</li>
                 <li>— <a href="https://www.dropbox.com/">Dropbox</a> and <a href="https://www.backblaze.com">Backblaze</a> for backups</li>
                 <li>— <a href="https://1password.com">1Password</a> for password management</li>
                 <li>— <a href="https://www.privateinternetaccess.com">Private Internet Access</a> for VPN</li>
-                </ul>
-
-<p></p>
-<p>I photograph with a Fuji X100f, iPhone 11 Pro, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. </p>
-
-</article>
-
-
+            </ul>
+        <p></p>
+        <p>I photograph with a Fuji X100f, iPhone 11 Pro, and Polaroid 600 and editing happens in Lightroom. I podcast/interview with a <a href="https://amzn.to/2zuNp0j">Blue Yeti microphone</a> through <a href="https://zencastr.com">Zencastr</a> and edit in GarageBand. </p>
+    </article>
 </div>
+-->
 
 <div class="profile_section">
-            <h4>About this Site</h4>
-            <article>
-                <p>I'm a believer in making work open source so this site is built entirely with open-source and free tools. The site uses <a href="https://jekyllrb.com">Jekyll</a>, an open-source, static-site generator, and is hosted <a href="https://github.com/jarrettfuller/jarrettfuller.github.io">on Github</a>. It’s set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Tinos">Tinos</a> and served up via Google Fonts. You are free to adapt, remix, reuse, and update both the code and visual design for your own needs. That said, if you do use the code for your own site, please include a credit and link back here. Thanks!</p>
-
-</article>
-
-
+    <h4>About this Site</h4>
+        <article>
+            <p>This site was designed by <a href="https://jarrettfuller.com/">Jarrett Fuller</a>, who generously made both the code and the visual design available to others to adapt, remix, reuse, and update. (Thanks, Jarrett!) The site uses <a href="https://jekyllrb.com">Jekyll</a>, an open-source, static-site generator, and is hosted <a href="https://github.com/killeenhanson/killeenhanson.github.io">on Github</a>. It’s set in <a href="https://fonts.google.com/specimen/Karla">Karla</a> and <a href="https://fonts.google.com/specimen/Tinos">Tinos</a> and served up via Google Fonts. If you (like me) model your site off of Jarrett's <a href="https://github.com/jarrettfuller/jarrettfuller.github.io">original code</a>, please include a credit and link back to Jarrett.</p>
+        </article>
 </div>
 
 </div>
 
 <sidebar>
-        <img src="/images/jf-portrait-2019.jpg" class="portrait">
-
-<h4>Studio</h4>
-                <p>I run a small Brooklyn-based design and editorial studio called <a href="http://twenty-six.design">twenty-six.design</a>. You can see recent work there. We're always taking on new clients.
-                    </p>
-
-<h4>Newsletter</h4>
-<p>Subscribe to my newsletter for updates on my work, photography, links, and other miscellany. Sent monthly(ish):</p>
-
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/jarrettfuller"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/jarrettfuller', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <input type="email" name="email" id="bd-email">
-  <input type="hidden" value="1" name="embed">
-  <input type="submit" value="Subscribe">
-  <p>
-  </p>
-</form>
-        <h4>Contact</h4>
-                <p><ul>
-                    <li><a href="mailto:jarrettfuller@gmail.com">Email</a></li>
-                    <li><a href="http://www.twitter.com/jarrettfuller">Twitter</a></li>
-                    <li><a href="http://www.instagram.com/jarrettfuller">Instagram</a></li>
-                    <li><a href="https://github.com/jarrettfuller">Github</a></li><li><a href="https://are.na/jarrett-fuller">Are.na</a></li></ul>
-<!--                                        <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>-->
-                    <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>
-                    </p>
-
-
-<h4>CV</h4>
-                <p><ul>
-                    <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
-                    </ul>
-                </p>
-        </sidebar>
+    <img src="/images/jf-portrait-2019.jpg" class="portrait">
+<!--
+    <h4>Studio</h4>
+        <p>I run a small Brooklyn-based design and editorial studio called <a href="http://twenty-six.design">twenty-six.design</a>. You can see recent work there. We're always taking on new clients.</p>
+-->
+    <h4>Newsletter</h4>
+        <p>Subscribe to my irregular newsletter for updates on my work, photography, links, and other miscellany:</p>
+            <form
+              action="https://buttondown.email/api/emails/embed-subscribe/jarrettfuller"
+              method="post"
+              target="popupwindow"
+              onsubmit="window.open('https://buttondown.email/jarrettfuller', 'popupwindow')"
+              class="embeddable-buttondown-form">
+              <input type="email" name="email" id="bd-email">
+              <input type="hidden" value="1" name="embed">
+              <input type="submit" value="Subscribe">
+              <p></p>
+            </form>
+    <h4>Contact</h4>
+        <p><ul>
+            <li><a href="mailto:killeen.hanson@gmail.com">Email</a></li>
+<!--        <li><a href="http://www.twitter.com/jarrettfuller">Twitter</a></li>-->
+            <li><a href="http://www.instagram.com/killeenhanson">Instagram</a></li>
+            <li><a href="https://github.com/killeenhanson">Github</a></li>
+            <li><a href="https://www.linkedin.com/in/killeen-hanson/">LinkedIn</a></li>
+<!--        <li><a href="https://are.na/jarrett-fuller">Are.na</a></li>-->
+<!--        <li><a href="https://www.flickr.com/photos/jarrettfuller/">Flickr</a></li>-->
+<!--       <li><a href="https://open.spotify.com/user/jarrettfuller">Spotify</a></li>-->
+        </ul></p>
+<!--
+    <h4>CV</h4>
+        <p><ul>
+            <li><a href="https://docs.google.com/document/d/1ZYmCwEPwgzn7XtCpVJmmxTG15Z5Ws38lkGUUVfoHmPo/edit?usp=sharing">View CV</a></li>
+        </ul></p>
+-->
+</sidebar>
 
 
 <!--
 ### More Information
 
-
-
 ### Contact
 
-[email@domain.com](mailto:email@domain.com)-->
+[email@domain.com](mailto:email@domain.com) -->

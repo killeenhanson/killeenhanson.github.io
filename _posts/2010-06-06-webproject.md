@@ -1,7 +1,7 @@
 ---
 layout: image
-title: Warby Parker 2011 Annual Report
-tags: Design
+title: Mix of full span and 2-column images
+tags: Example
 discription: Warby Parker saw tremendous growth during the year 2011 and wanted an innovative and unusual way to share that data with their customers. We created an interactive, horizontal scrolling year in review anchored by a timeline highlighting various events from the year.
 categories:
 - Design

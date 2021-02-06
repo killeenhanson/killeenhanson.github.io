@@ -1,7 +1,7 @@
 ---
 layout: image
-title: The Five Obstructions
-tags: Design
+title: Two column workshop or syllabus
+tags: Example
 discription: The Five Obstructions is a 2003 Danish film by Lars von Trier and Jørgen Leth. In the film, Von Trier gives Leth, his friend and mentor, the task of remaking <I>The Perfect Human</I>—von Trier's favorite film—five times, each time with a different 'obstruction' (or obstacle) given by von Trier. In the <a href="">second episode of the Sway podcast</A>, Rory King and I discussed the <I>The Five Obstructions</I> as a framework for a class assignment that forces students to work within constraints to focus on processes, research, and experimentation. We adapted the concept for Sway by selecting a favorite project of each others and then spent five weeks between March 12 and April 30, 2014 to have each other redesign it five times under various constraints. Rory had me rethink my <a href="http://www.jarrettfuller.com/portfolio/design/jazz.htm">Don't Get Comfortable booklet</a> and I asked him to redesign his identity system for Nuit Noir.
 categories:
 - Design

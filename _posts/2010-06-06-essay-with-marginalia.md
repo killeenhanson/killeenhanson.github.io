@@ -1,9 +1,9 @@
 ---
 layout: text
-title: An interview with Experimental Jetset
-tags: Interview
-publish: March 2017
-year: 2017
+title: Essay with Marginalia + Full Span Images
+tags: Example
+publish: January 2010
+year: 2010
 image: /images/projects/ej_01.jpeg
 permalink: /projects/experimental-jetset
 ---

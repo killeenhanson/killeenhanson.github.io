@@ -1,7 +1,7 @@
 ---
 layout: text
-title: Graphic Design Needs a New Revolution
-tags: Writing
+title: Essay with footnotes 2
+tags: Example
 discription:
 publish: September 2013
 year: 2013

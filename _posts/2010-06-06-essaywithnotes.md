@@ -1,9 +1,9 @@
 ---
 layout: text
-title: Logos as Platforms, Branding not Badging
-tags: Writing
+title: Essay with Footnotes
+tags: Example
 discription:
-publish: November 2012
+publish: Month YYYY
 year: 2012
 image: /images/projects/branding_usa_logo.jpg
 permalink: /projects/branding

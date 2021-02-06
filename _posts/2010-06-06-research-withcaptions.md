@@ -1,7 +1,7 @@
 ---
 layout: image
-title: "#windsorinthewild"
-tags: Research
+title: "#Researchwithcaptions"
+tags: Example
 discription: A visual compendium of a multi-year photographic and research project documenting the use of the typeface Windsor. The book collects over 100 usages of Windsor seen around the country from book covers to stickers to product packaging. An accopmanying essay considers Windsor's history in relationship to graphic design and notes its popular usage and rise and fall in popularity.
 categories:
 - Design
