@@ -1,94 +1,97 @@
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
     <title>{{ page.title }}—Killeen Hanson</title>
         <meta name="viewport" content="width=device-width">
         <meta charset="UTF-8">
-            <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css" />
-       <link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css" />
+        <link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Tinos:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="/images/icon.ico">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-        <style type="text/css">
-.preview {
-  set the width you want here. This will automagically limit the width of the anchors too;
-}
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+        
+    <style type="text/css">
+        .preview {
+            set the width you want here. This will automagically limit the width of the anchors too;
+        }   
 
-/*all anchors in this ul*/
-.preview a {
-    width: 100%; /*this Haslayout trigger taking the place of zoom and therefore passes the validator, if it matters. Width is already naturally 100% by default anyway so we haven't changed anything except trigger Haslayout for IE*/
-    position:relative;
-    text-decoration:none;
-}
-/*all images inside boat ul*/
-.preview img {
-    position: fixed;
-    display: block; /*abso-position is already block context; you only need this line if IE is squirrely without it. Otherwise, take this line out*/
-    margin-left:-9999px; /*IE likes margins better than "left" for some reason*/
-    top:10%;
-    left: 0; /*but set a left and top for stability*/
-    z-index: -900;
-    width: 90%;
-}
+        /*all anchors in this ul*/
+        .preview a {
+            width: 100%; /*this Haslayout trigger taking the place of zoom and therefore passes the validator, if it matters. Width is already naturally 100% by default anyway so we haven't changed anything except trigger Haslayout for IE*/
+            position:relative;
+            text-decoration:none;
+        }
+        /*all images inside boat ul*/
+        .preview img {
+            position: fixed;
+            display: block; /*abso-position is already block context; you only need this line if IE is squirrely without it. Otherwise, take this line out*/
+            margin-left:-9999px; /*IE likes margins better than "left" for some reason*/
+            top:10%;
+            left: 0; /*but set a left and top for stability*/
+            z-index: -900;
+            width: 90%;
+        }
 
-.preview a:hover, .preview a:focus {
-}
+        .preview a:hover, .preview a:focus {
+        }
 
-.preview a:hover img, .preview a:focus img {
-    margin-left: 5%; /*set the image where you want it on hover/focus of anchor*/
-}
+        .preview a:hover img, .preview a:focus img {
+            margin-left: 5%; /*set the image where you want it on hover/focus of anchor*/
+        }
 
-        </style>
+    </style>
+</head>
 
-    </head>
-    <body id="top"><!-- Start of StatCounter Code -->
+<body id="top"><!-- Start of StatCounter Code -->
 <script type="text/javascript">
-sc_project=862958;
-sc_invisible=1;
-sc_partition=3;
-sc_security="4b79b18c";
+    sc_project=862958;
+    sc_invisible=1;
+    sc_partition=3;
+    sc_security="4b79b18c";
 </script>
-
 <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a href="http://www.statcounter.com/" target="_blank"><img class="statcounter" src="http://c4.statcounter.com/862958/0/4b79b18c/1/" alt="free counter statistics" ></a></div></noscript>
 <!-- End of StatCounter Code -->
-        <header><h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <nav><ul>
-                <li><a href="{{ site.baseurl }}/projects">Work</a></li>
-                <li><a href="{{ site.baseurl }}/teaching">Teaching</a></li>
-                <li><a href="{{ site.baseurl }}/library">Library</a></li>
-                <!-- <li><a href="{{ site.baseurl }}/writing">Writing</a></li>
-                <li><a href="{{ site.baseurl }}/painting">Painting</a></li>
-                <li><a href="{{ site.baseurl }}/play">Play</a></li> -->
-                <li><a href="http://sobremesareadingclub.com">Sobremesa Reading Club</a></li>
-                <li><a href="{{ site.baseurl }}/about">About</a></li>
-
-             </ul></nav></header>
-
-
+    <header><h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <nav><ul>
+            <li><a href="{{ site.baseurl }}/projects">Work</a></li>
+            <li><a href="{{ site.baseurl }}/teaching">Teaching</a></li>
+            <!--<li><a href="{{ site.baseurl }}/library">Library</a></li>
+            <li><a href="{{ site.baseurl }}/writing">Writing</a></li>
+            <li><a href="{{ site.baseurl }}/painting">Painting</a></li>
+            <li><a href="{{ site.baseurl }}/play">Play</a></li> -->
+            <li><a href="http://sobremesareadingclub.com">Sobremesa Reading Club</a></li>
+            <li><a href="{{ site.baseurl }}/about">About</a></li>
+         </ul></nav>
+    </header>
 
 <div id="container">
       {{ content }}
+</div>
+
+<footer>
+    <div class="left"><p>&copy <script language="javascript" type="text/javascript">
+        var today = new Date()
+        var year = today.getFullYear()
+        document.write(year)
+        </script> Killeen Hanson</p>
     </div>
 
-        <footer><div class="left"><p>&copy <script language="javascript" type="text/javascript">
-var today = new Date()
-var year = today.getFullYear()
-document.write(year)
-            </script> Killeen Hanson.</p></div>
-
-    <div class="right"><p><a href="mailto:killeen.hanson@gmail.com">Email</a> | 
-        <!-- <a href="http://www.twitter.com/jarrettfuller">Twitter</a> | -->
-        <a href="http://www.instagram.com/killeenhanson">Instagram</a> | 
-        <a href="https://www.linkedin.com/in/killeen-hanson/">LinkedIn</a> |
-        <!-- <a href="https://are.na/killeen-hanson">Are.na</a> | 
-        <a href="https://open.spotify.com/user/killeenhanson/">Spotify</a></p></div> -->
-    </footer>
-        <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-                <script>
-            $(".images .to-top a").click(function(event) {
-                event.preventDefault();
-                $("body,body").animate({scrollTop:$(this.hash).offset().top}, 400);
-            });
-        </script>
-    </body>
+    <div class="right"><p><a href="mailto:killeen.hanson@gmail.com">Email</a>
+        <!-- | <a href="http://www.twitter.com/jarrettfuller">Twitter</a>-->
+         | <a href="http://www.instagram.com/killeenhanson">Instagram</a>
+         | <a href="https://www.linkedin.com/in/killeen-hanson/">LinkedIn</a>
+        <!-- | <a href="https://are.na/killeen-hanson">Are.na</a>
+         | <a href="https://open.spotify.com/user/killeenhanson/">Spotify</a></p>-->
+    </div>
+</footer>
+    
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script>
+    $(".images .to-top a").click(function(event) {
+        event.preventDefault();
+        $("body,body").animate({scrollTop:$(this.hash).offset().top}, 400);
+    });
+</script>
+    
+</body>
 </html>

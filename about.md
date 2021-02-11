@@ -11,13 +11,14 @@ permalink: /about/
 
 <div class="profile_section">
 <h4>Short Bio</h4>
-<article><p>Killeen Hanson works, writes, and teaches about radical listening, the commons, and the relationship between education, publication, and civic engagement. She is the founder and editor of the Sobremesa Reading Club, a publication and discussion series that _____. She also ____, teaches both undergraduate and graduate programs at Parsons The New School of Design. She previously worked  as an writer and researcher at Juntos Finanzas, the Spatial History Lab at Stanford University, Museum of Contemporary Craft, and UNTITLED Magazine. She earned a BA in English literature from Stanford University and a dual MFA in Applied Craft + Design from Pacific Northwest College of Art and Oregon College of Art and Craft. She lives and works in New York.</p>
+<article><p>Killeen Hanson works, writes, and teaches about radical listening, the commons, and the relationship between education, publication, and civic engagement.</p> 
 </article>
 </div>
 
 <div class="profile_section">
 <h4>Longer Bio</h4>
- <article>
+<article><p>Killeen Hanson is the founder and editor of the Sobremesa Reading Club, a publication and discussion series that _____. She also ____, teaches both undergraduate and graduate programs at Parsons The New School of Design. She previously worked  as an writer and researcher at Juntos Finanzas, the Spatial History Lab at Stanford University, Museum of Contemporary Craft, and UNTITLED Magazine. She earned a BA in English literature from Stanford University and a dual MFA in Applied Craft + Design from Pacific Northwest College of Art and Oregon College of Art and Craft. She lives and works in New York.</p>
+    
 <p>She graduated Phi Beta Kappa from Stanford University with degrees in English and French and earned a dual MFA in Applied Craft + Design from Pacific Northwest College of Art and Oregon College of Art and Craft.</p>
      
 <p>From 2012-2014, Killeen served as Managing Editor of PNCA's UNTITLED Magazine, an online publication about art, craft, and lives of creative practice. Later, as Director of Strategic Partnerships at Pacific Northwest College of Art, she worked with artists, academics, technologists, historians, economists, and scientists to develop collaborations that leveraged the strengths of each field into truly astonishing research that reimagined the future of art and design education. She was previously the Managing Producer for the Stanford Storytelling Project, where she coordinated production of weekly radio documentaries that deepened our understanding of single, common human experiences; a Camp Helper at Vogelsang High Sierra Camp in Yosemite National Park; and a coach for aspiring documentary filmmakers and radio interviewers.</p>
@@ -74,7 +75,7 @@ permalink: /about/
 </div>
 
 <sidebar>
-    <img src="/images/jf-portrait-2019.jpg" class="portrait">
+    <img src="/images/killeenhanson_headshot_007.jpg" class="portrait">
 <!--
     <h4>Studio</h4>
         <p>I run a small Brooklyn-based design and editorial studio called <a href="http://twenty-six.design">twenty-six.design</a>. You can see recent work there. We're always taking on new clients.</p>
