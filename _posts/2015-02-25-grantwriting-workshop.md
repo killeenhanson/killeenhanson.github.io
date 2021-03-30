@@ -1,7 +1,8 @@
 ---
 layout: image
 title: "Grantwriting for Artists Workshop"
-tags: Teaching
+label: Teaching
+tags: Teaching Workshop
 description: "From 2014-2018, I led annual (sometimes twice annual) grantwriting workshops for art and design students at BridgeLab, a career services center and entrepreneurial incubator at Pacific Northwest College of Art."
 categories:
 - Workshop

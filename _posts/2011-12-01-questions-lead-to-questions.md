@@ -1,6 +1,7 @@
 ---
 layout: image
 title: Questions Lead to Questions
+label: Research
 tags: Research
 description: A wall-sized mind map that investigated three central questions of documentary-based art. Is the work in the preparation for the exchange? In the exchange itself? Or in the document of the exchange? Each question led to further questions and evidence in the form of text, image, and sound.<br><br>This was preparatory work for my graduate practicum in Applied Craft and Design.
 categories:

@@ -1,11 +1,12 @@
 ---
 layout: text
 title: Juncture Catalog Introduction   
+label: Writing
 tags: Writing
 description:
 publish: May 2014
 year: 2014
-image: /images/projects/branding_usa_logo.jpg
+image: /images/projects/JUNCTURE.webp
 permalink: /projects/juncture
 ---
 

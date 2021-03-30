@@ -1,6 +1,7 @@
 ---
 layout: text
 title: "How to be Neighborly: Checking In"
+label: Writing
 tags: Writing
 publish: Summer 2013
 year: 2013

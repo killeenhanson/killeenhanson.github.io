@@ -165,7 +165,6 @@ nav li:first-child {
   padding-right: 15px;
   float: left;
   box-sizing: border-box;
-
 }
 .images-right {
   width: 50%;
@@ -533,7 +532,7 @@ TABLET
     padding-right: 0px;
       width: 100%;
   }
- .images p {
+  .images p {
         padding-left: 0px;
         padding-right: 0px;
     }
@@ -557,8 +556,8 @@ TABLET
     padding-top: 5px;
     margin-bottom: 5px;
   }
-.images-left p,
-    .images-right p {
+  .images-left p,
+  .images-right p {
         padding-left: 0px;
         padding-right: 0px;
     }
@@ -642,32 +641,33 @@ TABLET
     width: 100%;
   }
 }
+
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: #292929;
-        color: white;
-    }
-    a,
-    header h1,
-    .notes,
-.text article,
-article h3,
-article h4,
-.profile sidebar a,
-    text article a,
-    article a{
-  color: white;
-}
-    .profile sidebar a {
-  border-bottom: 0px white solid;
-}
-    .links:hover,
-.text article a,
-.profile sidebar p a{
+  body {
+      background-color: #292929;
+      color: white;
+  }
+  a,
+  header h1,
+  .notes,
+  .text article,
+  article h3,
+  article h4,
+  .profile sidebar a,
+  text article a,
+  article a{
     color: white;
-border-bottom: 1px solid white;
-}
-    figcaption {
-        color: white;
-    }
+  }
+  .profile sidebar a {
+    border-bottom: 0px white solid;
+  }
+  .links:hover,
+  .text article a,
+  .profile sidebar p a{
+    color: white;
+    border-bottom: 1px solid white;
+  }
+  figcaption {
+    color: white;
+  }
 }

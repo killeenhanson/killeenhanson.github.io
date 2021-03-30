@@ -1,7 +1,8 @@
 ---
 layout: image
 title: Refraction
-tags: Art
+label: Illustration
+tags: Illustration
 description:
 categories:
 - Screenprint
@@ -11,7 +12,7 @@ permalink: /projects/refraction
 ---
 
 <img src="/images/projects/refraction-7.jpg">
-<div class="images-right"><p>&uarr; Photo by Ali Gradischer</p></div>
+<div class="images-right"><p>&uarr; Photo by <a href="http://www.aligradischer.com/">Ali Gradischer</a></p></div>
 <section class="clear"></section>
 
 <!--Footnotes -->

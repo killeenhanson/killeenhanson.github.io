@@ -1,12 +1,14 @@
 ---
 layout: image
 title: <i>Encyclopedia of Everyday Experience</i>
-tags: Design
+label: Design
+tags: Design Teaching
 description: "In Spring 2020, when everything in the world got put on pause and/or went virtual, so too did my Design Strategies in Everyday Experience course. Everyday life was the subject of the course, and everything about everyday life had suddenly become strange and new. Together, my students and I asked How are we connecting with each other? How will industries change because of COVID?  and What does wellness mean during quarantine?<br><br>
 Using Amy Krouse Rosenthal's <i>Encyclopedia of an Ordinary Life</i> as a model, students collaboratively organized their responses into an online encyclopedia of everyday objects, spaces, rituals, and experiences that filled our lives during the early days of the pandemic.<br><br>
 Contributors: Carina Cho, Isha Goyal, Stephy Hsu, Emily Ki, Tanishkaa Kumar, Avi Magaram, Lena Malmstrom, Taara Mehta, Amanda Palermo, Sasha Patil, Esther Seo, Rebecca Stobbe, Charis Tang, Shriya Tiwari, Kennedy Whitaker, and Katie Yates."
 categories:
-- Design
+- Web Design
+- Visual Design
 - Editing
 - Teaching
 year: 2020

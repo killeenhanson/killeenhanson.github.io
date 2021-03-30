@@ -1,6 +1,7 @@
 ---
 layout: image
 title: <i>Periodicity</i>
+label: Design
 tags: Design
 description: Poet Iris A. Law asked me to design the cover for her 2012 poetry chapbook celebrating the women behind some of history's most illuminating scientific discoveries. The cover was inspired by Anna Atkins, a pioneering English botanist whose interest in photography as a means of recording botanical specimens led her not only to new understandings of plants but new potential of the cyanotype.
 categories:

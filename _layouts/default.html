@@ -27,9 +27,11 @@
             display: block; /*abso-position is already block context; you only need this line if IE is squirrely without it. Otherwise, take this line out*/
             margin-left:-9999px; /*IE likes margins better than "left" for some reason*/
             top:10%;
-            left: 0; /*but set a left and top for stability*/
+            left: 5%; /*but set a left and top for stability*/
             z-index: -900;
-            width: 90%;
+            width: 70%;
+            opacity: 0.5;
+/*            filter: grayscale(1)*/
         }
 
         .preview a:hover, .preview a:focus {

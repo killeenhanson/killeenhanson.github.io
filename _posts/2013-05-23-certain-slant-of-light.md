@@ -1,7 +1,8 @@
 ---
 layout: image
 title: There's a Certain Slant of Light
-tags: Art
+label: Illustration
+tags: Illustration
 description:
 categories:
 - Screenprint
@@ -11,12 +12,12 @@ permalink: /projects/certain-slant
 ---
 
 <div class="images-left">
-    <img src="/images/projects/certain-slant-19.jpg"></div>
+    <img src="/images/projects/20120213_khanson_art_016.jpg"></div>
     
 <div class="images-right">
-    <img src="/images/projects/certain-slant-27.jpg"></div>
+    <img src="/images/projects/20120213_khanson_art_020.jpg"></div>
     
-<div class="images-right"><p>&uarr; Photos by Ali Gradischer</p></div>
+<div class="images-right"><p>&uarr; Photo by <a href="http://www.aligradischer.com/">Ali Gradischer</a></p></div>
 <section class="clear"></section>
 
 <!--Footnotes -->
