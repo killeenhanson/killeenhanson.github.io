@@ -11,7 +11,7 @@ categories:
 publish: 2011
 year: 2011
 image: /images/projects/Hanson_Review4.jpg
-permalink: /projects/emma
+permalink: /emma
 ---
 An illustrated reflection on Jane Austen's <a id="footnote-1-ref" href="#footnote-1"><i>Emma</i></a>
 

@@ -8,7 +8,7 @@ categories:
 - Screenprint
 year: 2016
 image: /images/projects/refraction-7.jpg
-permalink: /projects/refraction
+permalink: /refraction
 ---
 
 <img src="/images/projects/refraction-7.jpg">

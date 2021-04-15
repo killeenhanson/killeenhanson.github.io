@@ -6,7 +6,7 @@ tags: Writing
 publish: Summer 2013
 year: 2013
 image: /images/projects/neighborly-web1.jpg
-permalink: /projects/neighborly
+permalink: /howtobeneighborly
 ---
 <figure>
 <img src="/images/projects/neighborly_2971.JPG">

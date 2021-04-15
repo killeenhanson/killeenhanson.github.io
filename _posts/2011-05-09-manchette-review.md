@@ -11,7 +11,7 @@ categories:
 publish: 2011
 year: 2011
 image: /images/projects/Hanson_Review3.jpg
-permalink: /projects/fatale
+permalink: /fatale
 ---
 An illustrated <a id="footnote-1-ref" href="#footnote-1">review</a> of J.P. Manchette's <i>Fatale</i>
 

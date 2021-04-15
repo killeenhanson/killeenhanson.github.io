@@ -9,8 +9,7 @@ categories:
 - Design
 year: 2012
 image: /images/projects/periodicity-web1.jpg
-permalink: /projects/periodicity
-
+permalink: /periodicity
 ---
 
 

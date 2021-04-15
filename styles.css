@@ -153,13 +153,41 @@ nav li:first-child {
 }
 .images img {
   width: 100%;
+    padding-top: 0px;
+  padding-bottom: 0px;
   padding-top: 15px;
   padding-bottom: 15px;
 }
 .images p {
-    padding-top: 0px;
-    padding-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+/*  width: 55%;*/
+  font-family: 'Karla', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+/*
+  font-family: 'Tinos', Georgia, Times, serif;
+  font-size: 20px;
+  line-height: 1.6em;
+*/
+/*  color: #000000;*/
+/*
+  float: right;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  margin-bottom: 5px;
+*/
 }
+/*
+.images a {
+  font-family: 'Tinos', Georgia, Times, serif;
+  font-size: 20px;
+  border-bottom: 1px #f63 solid;
+}
+.images a:hover {
+  color: #f63;
+}
+*/
 .images-left {
   width: 50%;
   padding-right: 15px;
@@ -172,10 +200,28 @@ nav li:first-child {
   float: right;
   box-sizing: border-box;
 }
+.images-right p {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: 'Karla', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+.images-right a {
+
+}
 .images blockquote {
   font-size: 36px;
   text-align: center;
   padding: 25px;
+  color: #f63;
+}
+.context {
+  width: 55%;
+  float: right;
+  font-family: 'Tinos', Georgia, Times, serif;
+  font-size: 20px;    
+  line-height: 1.6em;
+  color: palegreen;
 }
 .to-top {
   text-align: center;
@@ -316,7 +362,7 @@ article {
 }
 article h3 {
   font-family: 'Karla', Helvetica, Arial, sans-serif;
-  font-size: 16px;
+/*  font-size: 16px;*/
   color: #000000;
   font-size: 30px;
   padding-right: 10px;

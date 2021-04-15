@@ -11,7 +11,7 @@ categories:
 publish: 2011
 year: 2011
 image: /images/projects/Hanson_Review2.jpg
-permalink: /projects/goodbye
+permalink: /goodbye
 ---
 An illustrated reflection on Joan Didion's <a id="footnote-1-ref" href="#footnote-1"><i>“Goodbye to All That”</i><span class="footnote">1</span></a>
 

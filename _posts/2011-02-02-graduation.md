@@ -11,7 +11,7 @@ categories:
 - Book
 year: 2011
 image: /images/projects/20120213_khanson_art_018.jpg
-permalink: /projects/graduation
+permalink: /graduation-and-other-poems
 ---
 
 <img src="/images/projects/20120213_khanson_art_018.jpg">
@@ -26,6 +26,7 @@ permalink: /projects/graduation
     <img src="/images/projects/20120213_khanson_art_020.jpg"></div>
 <section class="clear"></section><br/><br/>
 
+<!--
 <p>"<i>In the end, <br/>
 I think that I will like that we were sitting on the bed, <br/>
 talking <br/>
@@ -59,8 +60,9 @@ It was terrifying, <br/>
 that wide wide world. <br/>
 But sweet, <br/>
 so sweet. <br/>
-
+<br/>
 From Brian Andreas." </p>
+-->
 
     
 <!--Footnotes -->

@@ -8,7 +8,7 @@ categories:
 - Screenprint
 year: 2013
 image: /images/projects/certain-slant-18.jpg
-permalink: /projects/certain-slant
+permalink: /certain-slant
 ---
 
 <div class="images-left">

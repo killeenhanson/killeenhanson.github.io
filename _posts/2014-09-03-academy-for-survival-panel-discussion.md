@@ -10,7 +10,7 @@ categories:
 - Interviewing
 year: 2014
 image: /images/projects/abigail-anne-newbold-lecture_15168055588_o.jpg
-permalink: projects/young-local2
+permalink: /academypanel
 ---
 
 <img src="/images/projects/abigail-anne-newbold-lecture_15168055588_o.jpg">

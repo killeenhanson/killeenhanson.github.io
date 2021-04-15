@@ -9,8 +9,7 @@ categories:
 - Teaching
 year: 2014-2018
 image: /images/projects/grant-writing-workshop-feb-25-2015_16647672282_o.jpg
-permalink: projects/grantwriting-bridgelab
-date: 2015-02-25 12:19 -0500
+permalink: /grantwriting101
 ---
 
 <img src="/images/projects/grant-writing-workshop-feb-25-2015_16647672282_o.jpg">

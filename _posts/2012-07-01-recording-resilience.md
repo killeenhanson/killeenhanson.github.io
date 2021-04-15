@@ -9,7 +9,7 @@ categories:
 - Workshop
 year: 2011-2012
 image: /images/projects/resilience_2011.png
-permalink: projects/recordingresilience
+permalink: /teaching/recordingresilience
 ---
 
 <div class="responsive-container"><p>

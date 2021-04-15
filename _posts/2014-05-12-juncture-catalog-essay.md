@@ -7,7 +7,7 @@ description:
 publish: May 2014
 year: 2014
 image: /images/projects/JUNCTURE.webp
-permalink: /projects/juncture
+permalink: /juncture
 ---
 
 <figure><img src="/images/projects/JUNCTURE.webp"></figure>

@@ -13,7 +13,7 @@ categories:
 - Teaching
 year: 2020
 image: /images/projects/2020-05-eoee_0.png
-permalink: /projects/encyclopedia
+permalink: /encyclopedia
 ---
 
 <img src="/images/projects/2020-05-eoee_0.png">

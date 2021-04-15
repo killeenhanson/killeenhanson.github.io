@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="object">
+    <div class="year">{{ page.publish }}</div>
+    <div class="essay">
+        <article>
+            <h3>{{ page.title }}</h3>
+            <h4><br>{{ page.title }}</h4>
+            <p><br>{{ page.description }}</p>
+
+            {{ content }}
+
+        </article>
+    </div>
+    
+    
+    
+    
+    <div class="project"><h4>{{ page.title }}</h4>
+        <p><br>{{ page.description }}</p>
+    </div>
+    <div class="type">
+        <ul>
+            {% for categories in page.categories %}
+            <li>{{ categories }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="year">{{ page.year }}</div>
+</div>
+
+<div class="images clearfix">
+    {{ content }}
+    <section class="clear"></section>
+    
+    <br><br><br><br>
+    <p class="to-top"><a href="#top">&uarr;<br>To Top</a></p>
+</div>
+
+
+
+
+
+
+
+---
+layout: default
+---
+
+    <div class="object">
+            <div class="year">{{ page.publish }}</div>
+            <div class="essay">
+            <article>
+               <h3>{{ page.title }}</h3>
+
+    {{ content }}
+
+</article>
+        </div>
+
+
+
+

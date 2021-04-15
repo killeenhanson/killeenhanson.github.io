@@ -10,8 +10,7 @@ categories:
 - Interviewing
 year: 2015
 image: /images/projects/young--local-pdx-panel-discussion_21617371381_o.jpg
-permalink: projects/young-local
-date: 2015-02-25 12:19 -0500
+permalink: /youngandlocal
 ---
 
 <img src="/images/projects/young--local-pdx-panel-discussion_21617371381_o.jpg">

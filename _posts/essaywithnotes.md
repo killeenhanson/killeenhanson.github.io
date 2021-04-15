@@ -15,7 +15,7 @@ permalink: /projects/branding
 
 <P>But the reception appears to be well-received<a id="footnote-2-ref" class="footnote" href="#footnote-2">2</a>. The more I see the new branding and the more I read about the process behind it and plans for it to evolve, the more in awe of it I become. It's bold, it's daring, and, in my estimation, shows what the future of branding looks like.</P>
 
-<P><a href="http://www.underconsideration.com/brandnew/archives/usa_today_for_tomorrow.php">On the new design</A>, Kate Nielsen (the project lead) and Lisa Smith (the design director) said:</P>
+<P><a href="http://www.underconsideration.com/brandnew/archives/usa_today_for_tomorrow.php">On the new design</a>, Kate Nielsen (the project lead) and Lisa Smith (the design director) said:</P>
 
 <blockquote><P>[The logo] also needed to be something that could embody the editorial spirit of the brand. On the masthead the blue circle becomes a canvas for representing the news of the day. It can change on a daily basis to represent key stories or themes from the National consciousness. It is the Newsroom's logo. A collaborative effort, editorialised and created everyday by the editors and graphics team. They should either be a clever twist (wink), a straight-to-the-point depiction, or a provocative and enticing graphic representing the related news story.</P></blockquote>
 

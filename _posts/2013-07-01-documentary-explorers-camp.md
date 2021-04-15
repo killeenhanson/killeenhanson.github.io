@@ -10,7 +10,7 @@ categories:
 - Workshop
 year: 2011-2013
 image: /images/projects/2-blackberries10.JPG
-permalink: projects/documentaryexplorers
+permalink: /teaching/documentaryexplorers
 ---
 
 <div class="responsive-container"><p>

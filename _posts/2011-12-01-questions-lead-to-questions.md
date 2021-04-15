@@ -10,7 +10,7 @@ categories:
 - collage
 year: 2011
 image: /images/projects/questions-web3.jpg
-permalink: /projects/questions
+permalink: /projects/questions-lead-to-questions
 ---
 
 <img src="/images/projects/questions_001.jpg">
