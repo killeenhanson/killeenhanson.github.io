@@ -13,13 +13,16 @@ year: 2011
 image: /images/projects/Hanson_Review3.jpg
 permalink: /fatale
 ---
-An illustrated <a id="footnote-1-ref" href="#footnote-1">review</a> of J.P. Manchette's <i>Fatale</i>
 
 <figure><img src="/images/projects/Hanson_Review3.jpg">
 <figcaption>Many thanks to <a href="http://www.danielamolnar.com/project/new-earth/new-earth-15/?cat=artwork#1">Daniela Molnar</a> and <a href="https://nonceforms.tumblr.com/">Sara Guest</a>, who offered invaluable feedback on both draft and illustration.</figcaption>
 </figure>
 
-<p>In <a id="footnote-2-ref" href="#footnote-2">this abrupt and brutal crime novel</a>, J.P. Manchette (1942-1995), the French author credited with reviving the genre, presents a cutting critique of petty bourgeois self-satisfaction.</p>
+<i>An illustrated review of J.P. Manchette's </i><a id="footnote-1-ref" href="#footnote-1">Fatale</a><span class="footnote">1</span>
+
+***
+
+<p>In <a id="footnote-2-ref" href="#footnote-2">this abrupt and brutal crime novel</a>,<span class="footnote">2</span> J.P. Manchette (1942-1995), the French author credited with reviving the genre, presents a cutting critique of petty bourgeois self-satisfaction.</p>
 
 <p>Aimée Joubert is a beautiful young woman with a dark past whose cold self-control is rivaled only by her ruthless ability to manipulate and take advantage of conflict. As Aimée insinuates herself into the polite society of the French seaside town of Bléville, she begins to peel back the veneer of manners and amicable bridge parties to reveal deep‐seated rivalries, insecurities, and hatreds.</p>
 
@@ -38,7 +41,7 @@ An illustrated <a id="footnote-1-ref" href="#footnote-1">review</a> of J.P. Manc
         <p id="footnote-1">Manchette, J.P. <i>Fatale</i>. New York: New York Review of Books, 2011. (1977) <a href="#footnote-1-ref">↩</a></p>
     </li>
     <li>
-        <p id="footnote-2">This review was first published in the <a href="https://portlandbookreview.com/2011/08/fatale/"><i>The Portland Book Review</i></a> on August 7, 2011. You can read it here. <a href="#footnote-2-ref">↩</a></p>
+        <p id="footnote-2">This review was first published in the <a href="https://portlandbookreview.com/2011/08/fatale/"><i>The Portland Book Review</i></a> on August 7, 2011. <a href="#footnote-2-ref">↩</a></p>
     </li>
 </ol>
 

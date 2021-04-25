@@ -3,8 +3,7 @@ layout: image
 title: Graduation and Other Poems
 label: Writing
 tags: Illustration Writing Book
-description: "How do you remember a friendship? An accordion book and chapbook inspired by conversations with a dear friend. <br/><br />
-veneer, thread, leather, glue"
+description: "How do you remember a friendship? An accordion book and chapbook inspired by conversations with a dear friend."
 categories:
 - Illustration
 - Poetry

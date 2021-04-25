@@ -13,11 +13,14 @@ year: 2011
 image: /images/projects/Hanson_Review2.jpg
 permalink: /goodbye
 ---
-An illustrated reflection on Joan Didion's <a id="footnote-1-ref" href="#footnote-1"><i>“Goodbye to All That”</i><span class="footnote">1</span></a>
 
 <figure><img src="/images/projects/Hanson_Review2.jpg">
 <figcaption>Many thanks to <a href="http://www.danielamolnar.com/project/new-earth/new-earth-15/?cat=artwork#1">Daniela Molnar</a> and <a href="https://nonceforms.tumblr.com/">Sara Guest</a>, who offered invaluable feedback on both draft and illustration.</figcaption>
 </figure>
+
+<i>An illustrated reflection on Joan Didion's "<a id="footnote-1-ref" href="#footnote-1">Goodbye to All That</a>” from </i>Slouching Towards Bethlehem<i><span class="footnote">1</span></i>
+
+***
 
 <p>When I first read Joan Didion’s landmark essay, “Goodbye to All That” from her equally landmark collection <i>Slouching Towards Bethlehem</i> (originally published in 1961), I read it as a roadmap to my early twenties.  I was a senior in college, encountering Didion for the first time in an undergraduate creative nonfiction writing class, and there was something about the sentence: “…one of the mixed blessings of being twenty and twenty-one and even twenty-three is the conviction that nothing like this, all evidence to the contrary notwithstanding, has ever happened to anyone before,” that rang with such awful and resonant truth that I could not ignore it.</p>
 

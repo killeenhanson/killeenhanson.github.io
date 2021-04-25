@@ -13,11 +13,14 @@ year: 2011
 image: /images/projects/Hanson_Review4.jpg
 permalink: /emma
 ---
-An illustrated reflection on Jane Austen's <a id="footnote-1-ref" href="#footnote-1"><i>Emma</i></a>
 
 <figure><img src="/images/projects/Hanson_Review4.jpg">
 <figcaption>Many thanks to <a href="http://www.danielamolnar.com/project/new-earth/new-earth-15/?cat=artwork#1">Daniela Molnar</a> and <a href="https://nonceforms.tumblr.com/">Sara Guest</a>, who offered invaluable feedback on both draft and illustration.</figcaption>
 </figure>
+
+<i>An illustrated reflection on Jane Austen's </i><a id="footnote-1-ref" href="#footnote-1">Emma</a><i><span class="footnote">1</span></i>
+
+***
 
 <p>I frequently wanted to strangle the title-character of Jane Austen’s novel, <i>Emma</i>, or at least shake her out of her self‐absorbed, self‐infatuated bubble. I even had to clap the book shut on several occasions in acutely embarrassed empathy when she seemed to be careening&mdash;once again&mdash;towards certain social or romantic disaster.</p>
 

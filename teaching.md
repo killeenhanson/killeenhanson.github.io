@@ -122,14 +122,16 @@ permalink: /teaching/
 </div>
 
 <sidebar>
+<!--
 <h4>Additional Links</h4>
-    <li><a href="https://jarrettfuller.com/projects/teaching-philosophy">Teaching Philosophy</a><li>
+    <li><a href="">Teaching Philosophy</a><li>
     <li><a href="https://readings.design">readings.design</a><li>
     <li><a href="https://www.are.na/jarrett-fuller">Are.na</a><li>
     <br>
     <br>
     <br>
     <br>
+-->
 <!--</sidebar>-->
 
 

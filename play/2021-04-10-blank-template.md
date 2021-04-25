@@ -52,7 +52,8 @@ Aenean aliquet mollis erat, fermentum porta erat lobortis sit amet. Morbi imperd
 
 <div class="images-left">
     <img src="/images/projects/neighborly_2971.JPG"></div>
-    
+            <p>&uarr; mushrooms, calabrian chili peppers</p>
+
 <div class="images-right">
     <img src="/images/projects/neighborly_2971.JPG"></div>
 
